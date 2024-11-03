@@ -1,10 +1,10 @@
 # 💫 Sobre Mim:
-🔭 Estou focado no projeto [CanaisTVPT](https://github.com/thomraider12/canaistvpt)
-👯 Procuro colaborar no iptv-org
-🤝 Estou em busca de ajuda com JS
-🌱 Atualmente estou a aprender JS
-💬 Pergunte-me qualquer coisa sobre Python
-⚡ Curiosidade: Adoro Cheetos!
+🔭 Estou focado no projeto [CanaisTVPT](https://github.com/thomraider12/canaistvpt)<br>
+👯 Procuro colaborar no iptv-org<br>
+🤝 Estou em busca de ajuda com JS<br>
+🌱 Atualmente estou a aprender JS<br>
+💬 Pergunte-me qualquer coisa sobre Python<br>
+⚡ Curiosidade: Adoro Cheetos!<br>
 
 ## 🌐 Redes Sociais:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/thomazafonsito1) 
